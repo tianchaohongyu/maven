@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Sep 06 21:20:44 GMT+08:00 2019
+#Sat Sep 07 17:58:13 CST 2019
+frame-starter-2019.9.7.pom>github-maven=
 frame-starter-2019.9.7-sources.jar>=
+frame-starter-2019.9.7.jar>github-maven=
+frame-starter-2019.9.7-sources.jar>github-maven=
 frame-starter-2019.9.7.pom>=
 frame-starter-2019.9.7.jar>=
