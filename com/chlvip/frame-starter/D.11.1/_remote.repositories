@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 04 10:31:02 GMT+08:00 2019
+frame-starter-D.11.1.jar>=
+frame-starter-D.11.1.pom>=
+frame-starter-D.11.1-sources.jar>=
